@@ -16,12 +16,12 @@ Our products are being used by more than 100,000 people around the world.
 
 ### Web :link:
 [divideprojects.com](https://divideprojects.com): Our main site.
-<br>status.divideprojects.com](https://status.divideprojects.com): Status Page for our services.
+<br>[status.divideprojects.com](https://status.divideprojects.com): Status Page for our services.
 <br>[ping-back.divideprojects.com](https://ping-back.divideprojects.com): A simple API made to ping the URL specified in URL parameters
 
 ### Docker :whale:
 [docker-python-base](https://github.com/DivideProjects/docker-python-base): Docker Image used as base for our python projects.
-<br>docker-telegram-bot-api](https://github.com/DivideProjects/docker-telegram-bot-api): Small Docker Image to run a standalone private Telegrem bot API Server.
+<br>[docker-telegram-bot-api](https://github.com/DivideProjects/docker-telegram-bot-api): Small Docker Image to run a standalone private Telegrem bot API Server.
 
 ## Sources
 Source code of most of them can be found right here on our GitHub!
