@@ -2,7 +2,7 @@
 
 A Organisation aimed to make open source software more accessible and usable.
 
-Our products are being used by more than 100,000 people around the world.
+Our products are being used by more than 400,000 people around the world.
 
 ## Currents Projects
 ### Telegram Bots :robot:
